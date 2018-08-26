@@ -48,7 +48,6 @@
     <Compile Include="Decompressor.cs" />
     <Compile Include="GZIP.cs" />
     <Compile Include="MemoryBlock.cs" />
-    <Compile Include="MemoryBlocksQueue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
